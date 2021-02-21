@@ -116,3 +116,11 @@ After running `netlify deploy` command, it asks for the published directory. So,
 ```bash
 npm deploy --prod
 ```
+
+## API Reference
+
+API documentation has been built using Swagger and deployed publicly which can be accessed [here](https://share-meme-backend.herokuapp.com/swagger-ui/)
+
+## Scripts
+
+Also, some scripts added here to make the setup ready on AWS EC2 instance (Ubuntu 18.04) so that `meme-backend` could be tested locally
