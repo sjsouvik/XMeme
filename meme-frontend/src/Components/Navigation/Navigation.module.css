@@ -1,0 +1,7 @@
+nav {
+  height: 15vh;
+  width: 100%;
+  background-color: var(--primary-color);
+  padding: 1.5rem;
+  color: var(--font-color);
+}

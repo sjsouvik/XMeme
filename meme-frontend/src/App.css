@@ -1,0 +1,17 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@1,400;1,700&display=swap"); */
+
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@400;700&display=swap");
+:root {
+  --primary-color: #0f172a;
+  --font-color: aliceblue;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.App {
+  font-family: "IBM Plex Serif", sans-serif;
+  text-align: center;
+}
