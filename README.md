@@ -114,7 +114,7 @@ netlify deploy
 After running `netlify deploy` command, it asks for the published directory. So, enter `build` in that case. As a result we get a `Website Draft URL` as a preview to check the deployed application is working fine or not. If everything is fine then run the below command to deploy finally in production
 
 ```bash
-npm deploy --prod
+netlify deploy --prod
 ```
 
 ## API Reference
